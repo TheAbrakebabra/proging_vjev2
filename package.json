@@ -1,0 +1,23 @@
+{
+    "name": "prog1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "prog1.js",
+    "dependencies": {
+      "jest": "^27.4.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "jest --watchAll"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TheAbrakebabra/ProgIng_vje.git"
+    },
+    "author": "Matej Abramović",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/TheAbrakebabra/ProgIng_vje/issues"
+    },
+    "homepage": "https://github.com/TheAbrakebabra/ProgIng_vje#readme"
+}  
